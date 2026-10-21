@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/rajeev-hero.svg" width="100%" alt="Rajeev Swami — Full-Stack Developer | Creative Technologist" />
+  <img src="rajeev-hero.svg" width="100%" alt="Rajeev Swami — Full-Stack Developer | Creative Technologist" />
 </div>
 
 ## About
@@ -66,5 +66,5 @@ I'm a final-year B.Tech Computer Science (AI) student in Jaipur who builds full-
 - **LinkedIn** — [linkedin.com/in/rajeev-swami-ba63a3301](https://linkedin.com/in/rajeev-swami-ba63a3301)
 
 <div align="center">
-  <img src="./assets/rajeev-footer.svg" width="100%" alt="Rajeev Swami — Full-Stack Developer | Creative Technologist" />
+  <img src="rajeev-footer.svg" width="100%" alt="Rajeev Swami — Full-Stack Developer | Creative Technologist" />
 </div>
