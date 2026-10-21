@@ -1,119 +1,70 @@
 <div align="center">
-<picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=rajeevswami&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F177953727%3Fu%3D9c9075c0fe277f0b06b655644dacfa8e8ed9ba76%26v%3D4&mode=light" />
-    <img src="https://www.gitskins.com/api/section/hero?username=rajeevswami&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F177953727%3Fu%3D9c9075c0fe277f0b06b655644dacfa8e8ed9ba76%26v%3D4&mode=dark" width="100%" alt="Rajeev Swami — profile" />
-  </picture>
-
-<h1>Rajeev Swami</h1>
-<p><strong>Frontend or full-stack engineer</strong></p>
-<p>Python, Django, Web Developer
-CSE(AI) Student
-Open to internships
-</p>
-<p><sub>Based in Jaipur</sub></p>
-
-<table width="100%">
-<tr>
-<td width="25%" align="center"><strong>0</strong><br /><sub>Followers</sub></td>
-<td width="25%" align="center"><strong>18</strong><br /><sub>Repositories</sub></td>
-<td width="25%" align="center"><strong>12</strong><br /><sub>Stars</sub></td>
-<td width="25%" align="center"><strong>139</strong><br /><sub>Contributions</sub></td>
-</tr>
-</table>
-
-<p><a href="https://github.com/rajeevswami">GitHub</a></p>
+  <img src="./assets/rajeev-hero.svg" width="100%" alt="Rajeev Swami — Full-Stack Developer | Creative Technologist" />
 </div>
 
-<h2>Building in public</h2>
+## About
 
-<table width="100%">
-<tr>
-<td width="62%" valign="top">
-<p>Python, Django, Web Developer
-CSE(AI) Student
-Open to internships
-</p>
-<p><strong>Focus:</strong> Python · JavaScript · HTML</p>
-<p><sub>Designed to make the work, momentum, and next conversation easy to find.</sub></p>
-</td>
-<td width="38%" valign="top">
-<img src="https://www.gitskins.com/api/section/portrait?username=rajeevswami&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F177953727%3Fu%3D9c9075c0fe277f0b06b655644dacfa8e8ed9ba76%26v%3D4&color=1&v=showcase-portrait-1" width="100%" alt="Rajeev Swami animated colored ASCII portrait" />
-</td>
-</tr>
-</table>
+I'm a final-year B.Tech Computer Science (AI) student in Jaipur who builds full-stack web products with **Python and Django**, and I'm targeting Python full-stack developer roles. I like taking an idea from data model to deployed interface, and I'm open to internships.
 
-<h2>What I’m shipping</h2>
+## Education
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/highlights?username=rajeevswami&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F177953727%3Fu%3D9c9075c0fe277f0b06b655644dacfa8e8ed9ba76%26v%3D4&items=Python%3A%3A18%20public%20repositories%7CSmartHire_AI%3A%3AFeatured%20project%7CImpact%3A%3A12%20stars%20%C2%B7%2042%20active%20days" width="100%" alt="Highlights" />
-</p>
+| | |
+|---|---|
+| **B.Tech, Computer Science (AI)** | Anand International College of Engineering, Jaipur · 2023 – 2027 |
 
-<h2>Featured work</h2>
+<!-- Add verified certifications / achievements here once you confirm them against your resume. -->
 
-<table width="100%">
-<tr>
-<td width="58%" valign="top">
-<img src="https://www.gitskins.com/api/section/projects?username=rajeevswami&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F177953727%3Fu%3D9c9075c0fe277f0b06b655644dacfa8e8ed9ba76%26v%3D4" width="100%" alt="Featured projects" />
-</td>
-<td width="42%" valign="top">
-<h3><a href="https://github.com/Rajeevswami/SmartHire_AI"><strong>SmartHire_AI</strong></a></h3>
-<p>A project built and shared in public.</p>
-<p><sub>TypeScript · ⭐ 0 stars · 0 forks</sub></p>
-<p><a href="https://github.com/Rajeevswami/SmartHire_AI">View project →</a></p>
-</td>
-</tr>
-</table>
-
-<h2>Selected work</h2>
+## Selected work
 
 <table width="100%">
 <tr>
 <td width="33%" valign="top">
-<h3><a href="https://github.com/Rajeevswami/SmartHire_AI"><strong>SmartHire_AI</strong></a></h3>
-<p>A project built and shared in public.</p>
-<p><sub>TypeScript · ⭐ 0</sub></p>
+<h3><a href="https://github.com/Rajeevswami/NexaMind_AI">NexaMind_AI</a></h3>
+<p>Full-stack AI knowledge and career assistant built with Django and a FastAPI RAG service.</p>
+<p><sub>Python</sub></p>
 </td>
 <td width="33%" valign="top">
-<h3><a href="https://github.com/Rajeevswami/NexaMind_AI"><strong>NexaMind_AI</strong></a></h3>
-<p>A project built and shared in public.</p>
-<p><sub>Python · ⭐ 1</sub></p>
+<h3><a href="https://github.com/Rajeevswami/EdTech.app">EdTech.app</a></h3>
+<p>Django-based EdTech application, configured for production deployment.</p>
+<p><sub>Python</sub></p>
 </td>
 <td width="33%" valign="top">
-<h3><a href="https://github.com/Rajeevswami/EdTech.app"><strong>EdTech.app</strong></a></h3>
-<p>A project built and shared in public.</p>
-<p><sub>Python · ⭐ 1</sub></p>
+<h3><a href="https://github.com/Rajeevswami/SmartHire_AI">SmartHire_AI</a></h3>
+<p>Public project repository.</p>
+<p><sub>TypeScript</sub></p>
 </td>
 </tr>
 </table>
 
-<h2>Signal</h2>
+## Skills
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=rajeevswami&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F177953727%3Fu%3D9c9075c0fe277f0b06b655644dacfa8e8ed9ba76%26v%3D4" width="100%" alt="12 stars across 18 repositories" />
-</p>
+| Category | Technologies |
+|---|---|
+| **Languages** | Python · JavaScript · TypeScript · HTML |
+| **Backend** | Django · FastAPI |
+| **Workflow** | Git · GitHub |
 
-<h2>Stack</h2>
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=rajeevswami&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F177953727%3Fu%3D9c9075c0fe277f0b06b655644dacfa8e8ed9ba76%26v%3D4" width="100%" alt="Language stack" />
-</p>
-
-<h2>Activity</h2>
+## Contribution activity
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=rajeevswami&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F177953727%3Fu%3D9c9075c0fe277f0b06b655644dacfa8e8ed9ba76%26v%3D4&mode=light" />
-    <img src="https://www.gitskins.com/api/section/heatmap?username=rajeevswami&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F177953727%3Fu%3D9c9075c0fe277f0b06b655644dacfa8e8ed9ba76%26v%3D4&mode=dark" width="100%" alt="139 contributions in the last year" />
+    <img src="https://www.gitskins.com/api/section/heatmap?username=rajeevswami&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F177953727%3Fu%3D9c9075c0fe277f0b06b655644dacfa8e8ed9ba76%26v%3D4&mode=dark" width="100%" alt="GitHub contribution heatmap (live data)" />
   </picture>
 </p>
 
-<hr />
+## GitHub statistics
 
-<table width="100%">
-<tr>
-<td width="62%" valign="middle"><h2>Let’s build something</h2><p>Open to thoughtful collaboration, ambitious products, and useful open-source work.</p></td>
-<td width="38%" valign="middle" align="right"><a href="https://github.com/rajeevswami">GitHub</a></td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=rajeevswami&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F177953727%3Fu%3D9c9075c0fe277f0b06b655644dacfa8e8ed9ba76%26v%3D4" width="100%" alt="GitHub statistics (live data)" />
+</p>
 
-<p align="center"><sub>Rajeev Swami · live profile data, designed with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+## Find me
+
+- **GitHub** — [github.com/Rajeevswami](https://github.com/Rajeevswami)
+- **Portfolio** — [rajeevportfolios.netlify.app](https://rajeevportfolios.netlify.app)
+- **LinkedIn** — [linkedin.com/in/rajeev-swami-ba63a3301](https://linkedin.com/in/rajeev-swami-ba63a3301)
+
+<div align="center">
+  <img src="./assets/rajeev-footer.svg" width="100%" alt="Rajeev Swami — Full-Stack Developer | Creative Technologist" />
+</div>
