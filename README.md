@@ -62,7 +62,6 @@ I'm a final-year B.Tech Computer Science (AI) student in Jaipur who builds full-
 ## Find me
 
 - **GitHub** — [github.com/Rajeevswami](https://github.com/Rajeevswami)
-- **Portfolio** — [rajeevportfolios.netlify.app](https://rajeevportfolios.netlify.app)
 - **LinkedIn** — [linkedin.com/in/rajeev-swami-ba63a3301](https://linkedin.com/in/rajeev-swami-ba63a3301)
 
 <div align="center">
