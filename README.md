@@ -47,20 +47,6 @@ I'm a final-year B.Tech Computer Science (AI) student in Jaipur who builds full-
 | **Backend** | Django · FastAPI |
 | **Workflow** | Git · GitHub |
 
-## Contribution activity
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=rajeevswami&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F177953727%3Fu%3D9c9075c0fe277f0b06b655644dacfa8e8ed9ba76%26v%3D4&mode=light" />
-    <img src="https://www.gitskins.com/api/section/heatmap?username=rajeevswami&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F177953727%3Fu%3D9c9075c0fe277f0b06b655644dacfa8e8ed9ba76%26v%3D4&mode=dark" width="100%" alt="GitHub contribution heatmap (live data)" />
-  </picture>
-</p>
-
-## GitHub statistics
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=rajeevswami&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F177953727%3Fu%3D9c9075c0fe277f0b06b655644dacfa8e8ed9ba76%26v%3D4" width="100%" alt="GitHub statistics (live data)" />
-</p>
 
 ## Find me
 
